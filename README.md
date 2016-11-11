@@ -1,5 +1,6 @@
-# GroupworkWeek45-46
+# GroupworkNamaste
 
+Groupwork Week 45-46
 Preparing for groupwork
 Groupwork # 2
 Deadline Nov 17
