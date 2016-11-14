@@ -2,7 +2,7 @@ package groupworkNamaste;
 
 public class EmployeeManagement {
     
-    //CREATE THE ARRAYLIST FROM THIS CLASS
+    //CREATE THE ARRAYLIST IN THIS CLASS
     
     
     //METHOD FOR ADDING NEW EMPLOYEES
@@ -11,6 +11,13 @@ public class EmployeeManagement {
     //METHOD FOR DELETING EMPLOYEES
     
     
-    //CREATE THE NESTED CLASS EmployeeUpdate INSIDE THIS CLASS
+    //THE NESTED CLASS INSIDE THIS CLASS EmployeeManagement
+    class EmployeeUpdate {
+        
+        
+    }//end class EmployeeUpdate
     
-}
+    
+    
+    
+}//end class EmployeeManagement
