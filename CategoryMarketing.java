@@ -2,6 +2,11 @@ package groupworkNamaste;
 
 public class CategoryMarketing extends SuperClassEmployee {
   
-    //METHOD FOR BONUS
+    //METHOD FOR CALCULATING BONUS
 
-}
+  
+  
+  
+  
+  
+}//end class
