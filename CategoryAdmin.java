@@ -3,6 +3,9 @@ package groupworkNamaste;
 public class CategoryAdmin extends SuperClassEmployee {
   
   
-  //METHOD FOR BONUS
+  //METHOD FOR CALCULATING BONUS
 
-}
+  
+  
+  
+}//end class
