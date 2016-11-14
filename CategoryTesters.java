@@ -2,6 +2,10 @@ package groupworkNamaste;
 
 public class CategoryTesters extends SuperClassEmployee {
   
-    //METHOD FOR BONUS
+    //METHOD FOR CALCULATING BONUS
 
-}
+  
+  
+  
+  
+}//end class
