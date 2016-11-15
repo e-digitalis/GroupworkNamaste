@@ -6,3 +6,5 @@ Groupwork # 2
 Deadline Nov 17
 
 Group 3: Ann-Sofie, Elissa, Maria, Mona
+
+Creating personnel handling system - groupwork in Java class
